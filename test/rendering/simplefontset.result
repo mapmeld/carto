@@ -8,7 +8,7 @@
 </FontSet>
 <Style name="world" filter-mode="first">
   <Rule>
-    <TextSymbolizer size="11" fontset-name="fontset-0">[NAME]</TextSymbolizer>
+    <TextSymbolizer size="11" fontset-name="fontset-0" lang="[default_language]">[NAME]</TextSymbolizer>
   </Rule>
 </Style>
 <Layer
@@ -22,4 +22,3 @@
   </Layer>
 
 </Map>
-

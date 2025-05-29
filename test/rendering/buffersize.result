@@ -7,7 +7,7 @@
 </FontSet>
 <Style filter-mode="first" name="world">
   <Rule>
-    <TextSymbolizer size="11" fontset-name="fontset-0" ><![CDATA[[NAME]]]></TextSymbolizer>
+    <TextSymbolizer lang="[default_language]" size="11" fontset-name="fontset-0" ><![CDATA[[NAME]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="world"
