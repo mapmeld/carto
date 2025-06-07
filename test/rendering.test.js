@@ -49,7 +49,8 @@ helper.files('rendering', 'mml', function(file) {
                     paths: [ path.dirname(file) ],
                     data_dir: path.join(__dirname, '../data'),
                     local_data_dir: path.join(__dirname, 'rendering'),
-                    filename: file
+                    filename: file,
+                    lang: "[default_language]"
                 },
                 renderer = null;
 
